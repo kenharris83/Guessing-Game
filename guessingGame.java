@@ -20,7 +20,7 @@ public class guessingGame {
                 System.exit(0);
             }
             if (answer == 0){
-                System.out.println("You don't read, do you? Pick a number between 1 - 10");
+                System.out.println("You don't read, do you? Pick a number between 1 - 100");
             }
             if (answer == correctAnswer){
                 System.out.println("I'll get you next time.");
